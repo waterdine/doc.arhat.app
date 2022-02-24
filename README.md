@@ -1,6 +1,13 @@
 ## Welcome to Arhat&trade;'s documentation!
 
-Arhat&trade; currently uses Studio Waterdine&trade;'s 虎.engine&trade;.
+Arhat&trade; is a game prototyping tool that currently uses Studio Waterdine&trade;'s 虎.engine&trade;.
+Arhat&trade; prototypes games using Visual Novels.
+Arhat&trade; is suitable for creating stories between friends, or as a way to design stories for larger games.
+Arhat&trade; provides a simple Visual Novel script and project format, that can be shared.
+Arhat&trade; provides a library or "asset pack" system to share characters, backgrounds and sound effects between Arhat&trade; projects.
+
+### Arhat&trade; script
+This is the scripting format for Visual Novels
 
 ### 虎.engine&trade;
 
