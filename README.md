@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Arhat&trade;'s documentation!
 
 Arhat&trade; currently uses Studio Waterdine&trade;'s 虎.engine&trade;.
 
