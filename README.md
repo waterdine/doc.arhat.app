@@ -9,6 +9,9 @@ Arhat&trade; provides a library or "asset pack" system to share characters, back
 ### Arhat&trade; script
 This is the scripting format for Visual Novels
 
+Arhat currently uses a simple per scene script format.
+Our plan is to update to use a screenwriting format similar to http://fountain.io.
+
 ### 虎.engine&trade;
 
 The 虎.engine is split into 3 frameworks.
@@ -17,9 +20,6 @@ The 虎.engine is split into 3 frameworks.
 虎.engine.story
 虎.engine.puzzle
 
-```markdown
-Arhat currently uses a simple per scene script format.
-Our plan is to update to use a screenwriting format similar to http://fountain.io.
 
 ### Support or Contact
 
