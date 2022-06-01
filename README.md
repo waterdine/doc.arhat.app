@@ -22,8 +22,11 @@ Line 3
 
 There are a number of useful scene types:
 `CutScene` (full screen text printer),
+
 `Story` (per character speech),
+
 `Choice` (story branch)
+
 And so on.
 
 Example Arhat Script of a branching story:
