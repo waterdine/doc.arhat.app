@@ -21,6 +21,7 @@ Line 3
 ```
 
 There are a number of useful scene types:
+
 `CutScene` (full screen text printer),
 
 `Story` (per character speech),
