@@ -13,10 +13,11 @@ Our plan is to update to use a screenwriting format similar to http://fountain.i
 For now each new scene is delineated by a // followed by “Scene -“ and the scene type.
 For example:
 
-`// Scene - CutScene, Image: IntroTree`
-`Line 1,`
-`Line 2,`
-`Line 3``
+```// Scene - CutScene, Image: IntroTree
+Line 1,
+Line 2,
+Line 3
+```
 
 There are a number of useful scene types:
 CutScene,
