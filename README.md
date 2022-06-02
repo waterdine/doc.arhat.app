@@ -82,8 +82,17 @@ GrubbyVillager: Now to the credits!
 The 虎.engine is split into 3 frameworks.
 
 虎.engine.base
+
 虎.engine.story
+
 虎.engine.puzzle
+
+A player is provided that allows creating an app that plays the story.
+
+https://github.com/waterdine/hu.engine.player
+
+You can either use xcode or swift playgrounds.
+Import the packages and copy the exported .虎 files into the root directory.
 
 ### Support or Contact
 
